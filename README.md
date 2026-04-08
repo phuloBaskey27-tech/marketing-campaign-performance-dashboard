@@ -1,5 +1,7 @@
 # Marketing Campaign Performance Dashboard
 
+![Dashboard](Screenshot%202026-04-09%20011020.png)
+
 A Power BI-based analytics dashboard for tracking, analyzing, and optimizing marketing campaign performance across multiple channels and customer segments.
 
 ## Overview
